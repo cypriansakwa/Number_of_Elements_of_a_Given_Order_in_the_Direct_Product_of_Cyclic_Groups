@@ -1,0 +1,6 @@
+[package]
+name = "Number_of_Elements_of_a_Given_Order_in_the_Direct_Product_of_Cyclic_Groups"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
